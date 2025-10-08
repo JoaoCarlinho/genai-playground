@@ -14,6 +14,7 @@ pyl_php_files/
 raw-data/
 scripts/
 utilities/
+wan_2dot1/
 
 # Specific files
 package-lock.json
